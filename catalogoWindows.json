@@ -670,11 +670,13 @@
   },
   {
     "Nome": "Spotify",
-    "Link": "https://devuploads.com/nn6nfilim51t",
+    "Link": "https://devuploads.com/gfefkegg440d",
     "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Musica/Spotify.jpg",
     "Sezione": "Musica",
     "Tooltip": "Spotify v1.2.45.454",
-    "MRicerca": "Musica"
+    "MRicerca": "Musica",
+    "LinkR": null,
+    "Descrizione": "Artisti, brani del momento e le tue canzoni preferite da ascoltare quando vuoi."
   },
   {
     "Nome": "Spotube",
