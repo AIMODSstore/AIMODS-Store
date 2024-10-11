@@ -736,11 +736,13 @@
   },
   {
     "Nome": "AIMODS-Bypass",
-    "Link": "https://devuploads.com/6v3j1kjqetc7",
+    "Link": "https://devuploads.com/p9tr1uiazm2u",
     "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Tool-AIMODS/aimodsbypass.jpg",
     "Sezione": "Tools AIMODS",
     "Tooltip": "AIMODS-Bypass v.0.0.0.0",
-    "MRicerca": "Tools AIMODS"
+    "MRicerca": "Tools AIMODS",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "Windscribe",
