@@ -799,5 +799,15 @@
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
+  },
+  {
+    "Nome": "ESET Endpoint Security",
+    "Link": "https://devuploads.com/fft9hwh3cdnz",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Antivirus/ESET%20Endpoint%20Securityf.png",
+    "Sezione": "Antivirus",
+    "Descrizione": null,
+    "Tooltip": "ESET Endpoint Security v11.1.2052.0",
+    "MRicerca": "Eset"
   }
 ]
