@@ -212,6 +212,16 @@
     "MRicerca": "Antivirus"
   },
   {
+    "Nome": "ESET Endpoint Security",
+    "Link": "https://devuploads.com/fft9hwh3cdnz",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Antivirus/ESET%20Endpoint%20Securityf.png",
+    "Sezione": "Antivirus",
+    "Descrizione": null,
+    "Tooltip": "ESET Endpoint Security v11.1.2052.0",
+    "MRicerca": "Eset"
+  },
+  {
     "Nome": "Autodesk Revit",
     "Link": "https://devuploads.com/1sukco621r70",
     "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Autodesk/revit.jpg",
@@ -799,15 +809,5 @@
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
-  },
-  {
-    "Nome": "ESET Endpoint Security",
-    "Link": "https://devuploads.com/fft9hwh3cdnz",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Antivirus/ESET%20Endpoint%20Securityf.png",
-    "Sezione": "Antivirus",
-    "Descrizione": null,
-    "Tooltip": "ESET Endpoint Security v11.1.2052.0",
-    "MRicerca": "Eset"
   }
 ]
