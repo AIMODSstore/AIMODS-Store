@@ -256,11 +256,11 @@
   {
     "Nome": "Freemake Vdeo Converter",
     "Link": "https://devuploads.com/22n8f1jrp3k3",
-    "LinkR": null,
-    "ImmagineUrl": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/default/Freemake.png",
     "Sezione": "Convertitore",
     "Descrizione": "Freemake Vdeo Converter",
-    "Tooltip": null,
+    "Tooltip": "",
     "MRicerca": "Frremake"
   },
   {
