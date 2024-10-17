@@ -273,11 +273,13 @@
   },
   {
     "Nome": "IDM",
-    "Link": "https://devuploads.com/fgnf3zjd5vuw",
+    "Link": "https://devuploads.com/4z5a2mnn8p1s",
     "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Downloader/IDM.jpg",
     "Sezione": "Downloader",
-    "Tooltip": "IDM v6.42 b22",
-    "MRicerca": "Downloader"
+    "Tooltip": "IDM v6.42 b23",
+    "MRicerca": "Downloader",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "IDM Portable",
