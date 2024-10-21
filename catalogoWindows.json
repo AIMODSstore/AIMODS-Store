@@ -831,5 +831,15 @@
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
+  },
+  {
+    "Nome": "SketchUp",
+    "Link": "https://devuploads.com/je103841mm6a",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Editing/SketchUp.png",
+    "Sezione": "Gestione Foto/Video e Editing",
+    "Descrizione": null,
+    "Tooltip": "SketchUp",
+    "MRicerca": "SketchUp"
   }
 ]
